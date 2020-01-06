@@ -1,0 +1,28 @@
+{
+  "name": "csgodiscord",
+  "version": "1.0.0",
+  "description": "CSGoDiscordBot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/Lemorz56/CSgoDiscordBot"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "csgo",
+    "steam",
+    "api"
+  ],
+  "author": "Sebastian Mossberg",
+  "license": "SEE LICENSE IN mit"
+}
