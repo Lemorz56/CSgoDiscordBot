@@ -9,13 +9,13 @@ Built using Discord.js together with node.js and steam API
 *Steam API Token\
 Discord API Token\
 npm Snekfetch\
-npm Node-fetch* \  
+npm Node-fetch*
 
-just open console/terminal in the folder and do ``npm discord.js``\
+just open console/terminal in the folder and do ``npm discord.js``
 
 # Running
 ## Before running...
-You have to create a config.json file with a structure like:\
+You have to create a config.json file with a structure like:
 ```javascript
 {
     "token": "DISCORD API TOKEN",
