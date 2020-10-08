@@ -15,7 +15,7 @@ just open console/terminal in the folder and do ``npm discord.js``
 
 # Running
 ## Before running...
-You have to create a config.json file with a structure like:
+You have to create a config.json file with a structure like this:
 ```javascript
 {
     "token": "DISCORD API TOKEN",
@@ -23,5 +23,6 @@ You have to create a config.json file with a structure like:
     "steamToken" : "STEAM API TOKEN"
 }
 ```
-Then you are good to go just do:
+Now don't forge to invite that bot to your server.
+Then you are good to go, to test it out locally run:
 ``node index.js``
