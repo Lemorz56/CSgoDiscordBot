@@ -11,8 +11,9 @@ Discord API Token\
 npm Snekfetch\
 npm Node-fetch*
 
+<!--
 just open console/terminal in the folder and do ``npm discord.js``
-
+-->
 # Running
 ## Before running...
 You have to create a config.json file with a structure like this:
